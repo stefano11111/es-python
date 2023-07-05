@@ -1,6 +1,6 @@
 user="stefano capra"
 sentence="user name is stefano, he is 28 years old"
-print(user.isdigit())
+print("0" in user or "1" in user or "2" in user or "3" in user or "4" in user or "5" in user or "6" in user or "7" in user or "8" in user or "9" in user)
 print(user[0], user[-1])
 a=user.split()
 sentence=sentence.replace("stefano", "marco")
