@@ -1,4 +1,8 @@
-name="stefano"
-age=28
-hello="my name is {}, i am {} years old".format(name,age)
-print(hello)
+sentence="Laura and tom went ON a long walk."
+sentence=sentence.lower()
+sentence=sentence.capitalize()
+sentence.replace("tom", "Tom")
+sentence=sentence.replace("long","LONG")
+sentence=sentence.replace("walk","wolk")
+print(sentence)
+print(sentence.split(" "))
