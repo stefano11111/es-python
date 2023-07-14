@@ -14,4 +14,5 @@ q = 3
 print(p*q)
 m = 8
 n = 2
-print((m/n)/n)
+print(m/n)
+print(8%2)
