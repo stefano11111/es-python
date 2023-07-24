@@ -10,4 +10,3 @@ list1[2]="rabbit"
 list1.append("monkey")
 list1.remove("rabbit")
 dict1["fish"]=0
-print(list1,dict1)
